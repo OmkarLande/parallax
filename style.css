@@ -38,7 +38,7 @@ h1{
     top: 5rem;
     font-size: 10rem;
     color: white;
-    text-shadow: 0 0 10px rgba(0, 0,0,0.3);
+    /* text-shadow: 0 0 10px rgba(0, 0,0,0.3); */
     left: 50%;
     transform: translateX(-50%);
     font-family: 'Poppins', sans-serif;
@@ -65,7 +65,7 @@ h1{
 }
 
 section{
-    background-color: rgb(45, 45, 45);
+    background-color: #1A2139;
     color: white;
     padding: 5rem 0;
 }
@@ -90,11 +90,11 @@ section{
     height:500px;
 }
 .bg1{
-    background-image: url(sport-1.jpg);
+    background-image: url(sport4.png);
 }
 .bg2{
-    background-image: url(sport-2.jpg);
+    background-image: url(sport5.png);
 }
 .bg3{
-    background-image: url(sport-3.jpg);
+    background-image: url(sport6.png);
 }
